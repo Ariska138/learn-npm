@@ -27,7 +27,7 @@
     "jest": "^29.7.0"
   },
   "dependencies": {
+    "adhan": "^4.4.3",
     "axios": "^1.7.7"
   }
 }
-
