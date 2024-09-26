@@ -1,0 +1,24 @@
+{
+  "name": "learn-npm",
+  "version": "0.0.1",
+  "description": "mempelajari npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariska138/learn-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "learn",
+    "js"
+  ],
+  "author": "Ariska Hidayat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ariska138/learn-npm/issues"
+  },
+  "homepage": "https://github.com/Ariska138/learn-npm#readme"
+}
